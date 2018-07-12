@@ -1,0 +1,6 @@
+##ignore this file##
+/conf/
+/logs/
+/.idea/
+/report/result.html
+/TestCase/geckodriver.log
